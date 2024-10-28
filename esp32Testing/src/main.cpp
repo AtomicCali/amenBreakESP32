@@ -5,7 +5,7 @@
 #define relayPin 23
 #define onPin 22
 int i;
-double tempo = 120; 
+double tempo = 160; 
 double l = 1.0;
 bool relayState1 = false; 
 int maxClickFactor = 80;
